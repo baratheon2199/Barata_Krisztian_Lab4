@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barata_Krisztian_Lab4", "Barata_Krisztian_Lab4\Barata_Krisztian_Lab4.csproj", "{BFF3B119-2B67-490E-BC5A-07BA08FF2914}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A8A277A-7F67-4B9E-8A65-125417BA3F3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "AutoLotModel\AutoLotModel.csproj", "{13D53DBE-795A-4ADD-8263-EA6479740606}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,10 @@ Global
 		{BFF3B119-2B67-490E-BC5A-07BA08FF2914}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFF3B119-2B67-490E-BC5A-07BA08FF2914}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFF3B119-2B67-490E-BC5A-07BA08FF2914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D53DBE-795A-4ADD-8263-EA6479740606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D53DBE-795A-4ADD-8263-EA6479740606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D53DBE-795A-4ADD-8263-EA6479740606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D53DBE-795A-4ADD-8263-EA6479740606}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
